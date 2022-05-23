@@ -6,7 +6,7 @@ import { BrowserRouter,Route,Routes } from 'react-router-dom';
 import MYHOME from './Component/Myhome';
 import STUDENTS from './Component/Students';
 import CONTACTUS from './Component/Contactus';
-import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 
 
