@@ -18,7 +18,7 @@ ul{
  
  
   
-  /* justify-content:space-around; */
+  
 }
 
 ul li{
@@ -29,11 +29,12 @@ ul li{
 }
 
 #container{
-  background-color: chartreuse;
+  background-color: black;
+
 }
 
 .link{
   text-decoration: none;
-  font-style: oblique;
+  color: whitesmoke;
 }
 
